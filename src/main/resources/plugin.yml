@@ -1,0 +1,6 @@
+ name: WorldProtect
+ main: world.protect.WorldProtect
+ version: "1.0.0"
+ author: WetABQ
+ api: ["1.0.0"]
+ description: World protect
