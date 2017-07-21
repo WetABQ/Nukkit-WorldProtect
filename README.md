@@ -40,6 +40,16 @@ Nukkit WorldProtect Plugin
 
 --------
 
+## API
+
+- Add to protect the world `WorldProtect.getPlugin().addWorld(world_name);`
+- Remove the world of protection `WorldProtect.getPlugin().removeWorld(world_name);`
+- Whether the world is protected `WorldProtect.getPlugin().ifProtect(world_name);`
+- For the players whether the world is protected `WorldProtect.getPlugin().ifProtectToPlayer(player,world_name);`
+- Read the configuration, create mode whether it is restricted `WorldProtect.getPlugin().ifCreatemode();`
+
+--------
+
 ### Open source:
 
 - [GitHub(WorldProtect)](https://github.com/WetABQ/Nukkit-WorldProtect)
