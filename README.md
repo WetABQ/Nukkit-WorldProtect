@@ -42,7 +42,7 @@ Nukkit WorldProtect Plugin
 
 ### Open source:
 
-- [GitHub(WorldProtect)](https://github.com/WetABQ/WorldProtect)
+- [GitHub(WorldProtect)](https://github.com/WetABQ/Nukkit-WorldProtect)
 
 ### Author:
 
