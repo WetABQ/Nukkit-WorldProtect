@@ -1,5 +1,5 @@
 # Nukkit-WorldProtect
-## Describe
+## Describe:
 
 Nukkit WorldProtect Plugin
 
@@ -20,7 +20,7 @@ Nukkit WorldProtect Plugin
 
 ### Of course,you can use [/wp help] for query help
 
-## Config
+## Config:
 ```
     worlds: '' #Protect the world list
     createmode: 'false' #Whether to restrict the creation mode player
@@ -28,22 +28,22 @@ Nukkit WorldProtect Plugin
 
 --------
 
-## Command
+## Command:
 |    Command    |              Args              |                  Describe                   |                     Permission                     |
 |:-------------:|:-------------------------------|:-------------------------------------------:|:-------------------------------------------------:|
 |       wp      |      <help/add/remove/sc>      |          WorldProtect main command          |  world.protect.command.worldprotectcommand   |
 
-## Command Permission
+## Command Permission:
 |             PermissionName                |               Describe               |    Default owner     |
 |:-----------------------------------------:|:------------------------------------:|:--------------------:|
 | world.protect.command.worldprotectcommand | WorldProtect main command permission | OP(including console |
 
 --------
 
-### Open source
+### Open source:
 
-[GitHub(WorldProtect)](https://github.com/WetABQ/WorldProtect)
+- [GitHub(WorldProtect)](https://github.com/WetABQ/WorldProtect)
 
-### Author
+### Author:
 
 - [WetABQ](https://github.com/WetABQ)
